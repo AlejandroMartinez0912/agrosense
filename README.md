@@ -63,16 +63,19 @@ La aplicación se iniciará en http://localhost:8080.
 
 ---
 ## Integrantes del Equipo
-- Belen Anton  – Desarrollador FrontEnd 
-- Colman Lucas – Desarrollador BackEnd 
-- Ivasiuta Mariano – Desarrollador BackEnd 
-- Martinez Alejandro – Desarrollador FrontEnd 
 
-### Contacto
-- belenantonok@gmail.com
-- lukasscolman@gmail.com
-- ivasiuta.mariano@gmail.com
-- martinezalejandrouni10@gmail.com
+| Integrante | Rol |
+|---|---|
+| Belen Anton | Desarrollador FrontEnd |
+| Colman Lucas | Desarrollador BackEnd |
+| Ivasiuta Mariano | Desarrollador BackEnd |
+| Martinez Alejandro | Desarrollador FrontEnd |
+
+---
+
+## Estado
+
+✅ Completado — Trabajo Integrador POO II (UNaM)
 
 
 
